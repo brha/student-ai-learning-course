@@ -1,4 +1,4 @@
-## Challenge
+## Challenges
 
 ## for chatbot_starter.py
 - Add more keywords and responses

@@ -1,4 +1,4 @@
-# BRHA: lidt eksstra til seneste lektion
+# BRHA: lidt ekstra til seneste lektion
 
 ## Ekstra 2026-10-20
 

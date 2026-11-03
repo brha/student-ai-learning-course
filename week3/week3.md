@@ -26,6 +26,11 @@
   - scikit-learn Digits dataset (8x8 images): https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
   - MLPClassifier: https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
   - Confusion matrix: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+- Or read:
+  - MNIST dataset: https://keras.io/api/datasets/mnist/
+  - Sequential model: https://keras.io/api/models/sequential/
+  - Dense layers: https://keras.io/api/layers/core_layers/dense/
+  - Model training and evaluation: https://keras.io/api/models/model_training_apis/
 - Activity: Use sample code and observe outputs
   - Use, understand and modify one of the following
     - **digit_classifier_starter_tensorflow.py**

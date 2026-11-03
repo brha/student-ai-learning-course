@@ -33,15 +33,9 @@
 
 # Week 3 Starter Code
 
-This folder contains a simple neural network starter script.
+This folder contains neural network starter scripts for week 3.
 
-## Digit Recognition with Keras
-
-digit_classifier_starter.py
-
-## Challenge
-
-- Change the number of neurons
-- Try more epochs
-- Visualize one sample image
-- Add a prediction for a single test image
+- lesson13_neuron_analogy.py
+- lesson14_neural_neetwork_starter.py
+- digit_classifier_starter_scikit-learn.py
+- digit_classifier_starter_tensorflow.py

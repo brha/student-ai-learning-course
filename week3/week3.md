@@ -1,6 +1,6 @@
 # Week 3 Neural networks and simple deep learning
 
-#### Meeting 5
+## Meeting 5
 
 **Lesson 13:** Neural networks explained simply
 - Goal: Explain neurons and layers
@@ -35,6 +35,26 @@
   - Use, understand and modify one of the following
     - **digit_classifier_starter_tensorflow.py**
     - **digit_classifier_starter_scikit-learn.py**
+
+## Meeting 6
+
+**Lesson 16:** Image classification introduction
+- Goal: Explain image datasets and processing
+  - Visual activity: 
+    - TensorFlow’s cats-vs-dogs image-classification tutorial: https://www.tensorflow.org/tutorials/images/classification
+    - It includes a Google Colab notebook: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb
+- Activity: Cat-vs-dog example
+  - Use, understand and modify  **lesson16_image_data_Version2.py**
+
+**Lesson 17:** Mini image classifier
+- Goal: Train a basic model on small images
+- Activity: Modify starter code
+  - Use, understand and modify **lesson17_mini_image_classifier_Version2.py**
+
+**Lesson 18:** Troubleshooting and model improvement
+- Goal: Discuss overfitting and tuning
+- Activity: Adjust epochs, layers, and data size
+  - Use, understand and modify **lesson18_overfitting_and_tuning_Version2.py**
 
 # Week 3 Starter Code
 

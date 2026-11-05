@@ -10,7 +10,7 @@
 
 ## Meeting 3
 
-Lesson 7: Supervised learning introduction
+**Lesson 7:** Supervised learning introduction
 - Goal: Explain classification and regression 
 - Activity: Use, understand and modify spam_detector_starter.py
 - Activity: Use, understand and modify house_price_predictor.py
@@ -19,7 +19,7 @@ Lesson 7: Supervised learning introduction
 - Look at https://pypi.org/project/scikit-learn/
 - Look at https://scikit-learn.org/stable/
 
-Lesson 8: Data preprocessing
+**Lesson 8:** Data preprocessing
 - Goal: Teach cleaning and feature preparation
 - Topics: missing values, text cleaning, train/test split
 - Activity: Use, understand and modify preperation.py
@@ -43,7 +43,7 @@ Lesson 8: Data preprocessing
       - map categories manually
       - use pandas.get_dummies()
 
-Lesson 9: Intro to scikit-learn
+**Lesson 9:** Intro to scikit-learn
 - Goal: Show a complete ML workflow and learn how to use scikit-learn
 - Activity: Train a logistic regression model. Use explore_scikit-learn.py
   - The code teaches
@@ -81,7 +81,7 @@ Lesson 9: Intro to scikit-learn
 #- Activity: Create a tiny dataset and train a model*
 ```
 
-Lesson 11: Model evaluation
+**Lesson 11:** Model evaluation
 - Goal: Explain accuracy and confusion matrix
 - Activity: Discuss what bad accuracy means
   - Use, understand and modify accuracy_and_confusion.py
@@ -92,7 +92,7 @@ Lesson 11: Model evaluation
   - What happens, when the data are good and when they are bad?
 
 
-Lesson 12: Code lab
+**Lesson 12:** Code lab
 - Goal: Test your own ideas
 - Activity: Tune parameters and compare results
   - Use and modify own_idea_starter.py

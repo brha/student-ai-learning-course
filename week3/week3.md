@@ -43,6 +43,11 @@
   - Visual activity: 
     - TensorFlow’s cats-vs-dogs image-classification tutorial: https://www.tensorflow.org/tutorials/images/classification
     - It includes a Google Colab notebook: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb
+  - Features:
+    - Step-by-step guide for building an image classifier using Keras.
+    - Walks through data loading, preprocessing, model creation/training, visualizing results, overfitting, tuning, and using techniques like data augmentation and dropout.
+    - Clear code, plots, and explanations that are classroom and beginner friendly.
+    - Dataset: Uses a filtered version of Cats vs. Dogs dataset (direct link in tutorial)
 - Activity: Cat-vs-dog example
   - Use, understand and modify  **lesson16_image_data_Version2.py**
 

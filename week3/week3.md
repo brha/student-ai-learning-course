@@ -73,4 +73,4 @@ This folder contains neural network starter scripts for week 3.
 - digit_classifier_starter_tensorflow.py
 - Lesson16_image_data_version4.py
 - Lesson17_mini_image_classifier_Version2.py
-- Lesson18_overfitting_and_tuning_Version1.py
+- Lesson18_overfitting_and_tuning_Version2.py

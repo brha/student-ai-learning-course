@@ -49,7 +49,9 @@
     - Clear code, plots, and explanations that are classroom and beginner friendly.
     - Dataset: Uses a filtered version of Cats vs. Dogs dataset (direct link in tutorial)
 - Activity: Cat-vs-dog example
-  - Use, understand and modify  **lesson16_image_data_Version2.py**
+  - Go to https://www.microsoft.com/en-us/download/details.aspx?id=54765, click **Download** and unzip **kagglecatsanddogs_5340.zip** in the directory week3
+  
+  - Use, understand and modify  **lesson16_image_data_Version4.py**
 
 **Lesson 17:** Mini image classifier
 - Goal: Train a basic model on small images
@@ -69,3 +71,6 @@ This folder contains neural network starter scripts for week 3.
 - lesson14_neural_neetwork_starter.py
 - digit_classifier_starter_scikit-learn.py
 - digit_classifier_starter_tensorflow.py
+- Lesson16_image_data_version4.py
+- Lesson17_mini_image_classifier_Version2.py
+- Lesson18_overfitting_and_tuning_Version1.py
